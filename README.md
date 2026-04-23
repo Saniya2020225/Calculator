@@ -8,6 +8,7 @@ This is a simple calculator made using HTML,CSS and JavaScript.
 -Subtraction
 -Multiplication
 -Division
+-Mathematical operations
 
 
 ## How to use
